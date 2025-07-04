@@ -1,0 +1,309 @@
+flight_no.,date_and_time_(utc),"version,_booster[h]",launch_site,payload[i],payload_mass,orbit,customer,launch_outcome,booster_landing,latitude,longitude
+195,"January 3, 2023 14:56[17]",F9 B5 B1060‑15,"Cape Canaveral, SLC‑40",Transporter-6 (115 payload smallsat rideshare),Unknown[j],SSO,Various,Success,Success (LZ‑1),28.5618571,-80.577366
+196,"January 10, 2023 04:50[23]",F9 B5 B1076‑2,"Cape Canaveral, SLC‑40",OneWeb 16 (40 satellites),"6,000 kg (13,000 lb)",Polar LEO,OneWeb,Success,Success (LZ‑1),28.5618571,-80.577366
+FH 5,"January 15, 2023 22:56[29]",Falcon Heavy B5 B1070 (core),"Kennedy, LC‑39A",USSF-67 (CBAS-2 & LDPE-3A),"~3,750 kg (8,270 lb)",GEO,USSF,Success,No attempt,28.6080585,-80.6039558
+FH 5,"January 15, 2023 22:56[29]",B1064‑2 (side),"Kennedy, LC‑39A",USSF-67 (CBAS-2 & LDPE-3A),"~3,750 kg (8,270 lb)",GEO,USSF,Success,Success (LZ‑2),28.6080585,-80.6039558
+FH 5,"January 15, 2023 22:56[29]",B1065‑2 (side),"Kennedy, LC‑39A",USSF-67 (CBAS-2 & LDPE-3A),"~3,750 kg (8,270 lb)",GEO,USSF,Success,Success (LZ‑1),28.6080585,-80.6039558
+197,"January 18, 2023 12:24[33]",F9 B5 B1077‑2,"Cape Canaveral, SLC‑40",USA-343 (GPS-III SV06),"4,352 kg (9,595 lb)",MEO,USSF,Success,Success (JRTI),28.5618571,-80.577366
+198,"January 19, 2023 15:43[39]",F9 B5 B1075‑1,"Vandenberg, SLC‑4E",Starlink: Group 2-4 (51 satellites),"15,000 kg (33,000 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+199,"January 26, 2023 09:32[40]",F9 B5 B1067‑9,"Cape Canaveral, SLC‑40",Starlink: Group 5-2 (56 satellites),"~17,400 kg (38,400 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+200,"January 31, 2023 16:15[42]",F9 B5 B1071‑7,"Vandenberg, SLC‑4E",Starlink: Group 2-6 (49 satellites),"~15,200 kg (33,500 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+200,"January 31, 2023 16:15[42]",F9 B5 B1071‑7,"Vandenberg, SLC‑4E",ION SCV009,"~15,200 kg (33,500 lb)",LEO,D-Orbit,Success,Success (OCISLY),34.6328344,-120.6107465
+201,"February 2, 2023 07:58[42]",F9 B5 B1069‑5,"Kennedy, LC‑39A",Starlink: Group 5-3 (53 satellites),"16,500 kg (36,400 lb)",LEO,SpaceX,Success,Success (ASOG),28.6080585,-80.6039558
+202,"February 7, 2023 01:32[46]",F9 B5 B1073‑6,"Cape Canaveral, SLC‑40",Amazonas Nexus,"4,146 kg (9,140 lb)",GTO,Hispasat,Success,Success (JRTI),28.5618571,-80.577366
+203,"February 12, 2023 05:10[52]",F9 B5 B1062‑12,"Cape Canaveral, SLC‑40",Starlink: Group 5-4 (55 satellites),"17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+204,"February 17, 2023 19:12[52]",F9 B5 B1063‑9,"Vandenberg, SLC‑4E",Starlink: Group 2-5 (51 satellites),"15,900 kg (35,100 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+205,"February 18, 2023 03:59[57]",F9 B5 B1077‑3,"Cape Canaveral, SLC‑40",Inmarsat-6 F2,"5,470 kg (12,060 lb)",GTO,Inmarsat,Success,Success (JRTI),28.5618571,-80.577366
+206,"February 27, 2023 23:13[63]",F9 B5 B1076‑3,"Cape Canaveral, SLC‑40",Starlink: Group 6-1 (21 satellites),"~15,300 kg (33,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+207,"March 2, 2023 05:34[69]",F9 B5 B1078‑1,"Kennedy, LC‑39A",Crew-6 (Crew Dragon C206.4 Endeavour),"~13,000 kg (29,000 lb)",LEO (ISS),NASA (CTS),Success,Success (JRTI),28.6080585,-80.6039558
+208,"March 3, 2023 18:38[63]",F9 B5 B1061‑12,"Vandenberg, SLC‑4E",Starlink: Group 2-7 (51 satellites),"15,900 kg (35,100 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+209,"March 9, 2023 19:13[73]",F9 B5 B1062‑13,"Cape Canaveral, SLC‑40",OneWeb 17 (40 satellites),"6,000 kg (13,000 lb)",LEO,OneWeb,Success,Success (LZ‑1),28.5618571,-80.577366
+210,"March 15, 2023 00:30[74]",F9 B5 B1073‑7,"Kennedy, LC‑39A",SpaceX CRS-27 (Dragon C209.3),"2,852 kg (6,288 lb)",LEO (ISS),NASA (CRS),Success,Success (ASOG),28.6080585,-80.6039558
+211,"March 17, 2023 19:26[79]",F9 B5 B1071‑8,"Vandenberg, SLC‑4E",Starlink: Group 2-8 (52 satellites),"~16,200 kg (35,700 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+212,"March 17, 2023 23:38[79]",F9 B5 B1069‑6,"Cape Canaveral, SLC‑40",SES-18 & SES-19,"~7,000 kg (15,000 lb)",GTO,SES,Success,Success (JRTI),28.5618571,-80.577366
+213,"March 24, 2023 15:43[82]",F9 B5 B1067‑10,"Cape Canaveral, SLC‑40",Starlink: Group 5-5 (56 satellites),"~17,400 kg (38,400 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+214,"March 29, 2023 20:01[84]",F9 B5 B1077‑4,"Cape Canaveral, SLC‑40",Starlink: Group 5-10 (56 satellites),"~17,400 kg (38,400 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+215,"April 2, 2023 14:29[85]",F9 B5 B1075‑2,"Vandenberg, SLC‑4E",SDA Tranche 0A (10 satellites),Unknown,LEO,SDA,Success,Success (LZ‑4),34.6328344,-120.6107465
+216,"April 7, 2023 04:30[87]",F9 B5 B1076‑4,"Cape Canaveral, SLC‑40",Intelsat 40e,"~5,588 kg (12,319 lb)",GTO,Intelsat,Success,Success (ASOG),28.5618571,-80.577366
+217,"April 15, 2023 06:47[90]",F9 B5 B1063‑10,"Vandenberg, SLC‑4E",Transporter-7 (51 payload smallsat rideshare),Unknown,SSO,Various,Success,Success (LZ‑4),34.6328344,-120.6107465
+218,"April 19, 2023 14:31[93]",F9 B5 B1073‑8,"Cape Canaveral, SLC‑40",Starlink: Group 6-2 (21 satellites),"~15,300 kg (33,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+219,"April 27, 2023 13:40[94]",F9 B5 B1061‑13,"Vandenberg, SLC‑4E",Starlink: Group 3-5 (46 satellites),"~14,100 kg (31,100 lb)",SSO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+220,"April 28, 2023 22:12[95]",F9 B5 B1078‑2,"Cape Canaveral, SLC‑40",O3b mPOWER 3 & 4,"~4,100 kg (9,000 lb)",MEO,SES,Success,Success (JRTI),28.5618571,-80.577366
+FH 6,"May 1, 2023 00:26[99]",Falcon Heavy B5 B1068 (core),"Kennedy, LC‑39A",ViaSat-3 Americas[100][101],"6,400 kg (14,100 lb)",GEO,ViaSat,Success,No attempt,28.6080585,-80.6039558
+FH 6,"May 1, 2023 00:26[99]",B1052-8 (side),"Kennedy, LC‑39A",Aurora 4A (Arcturus)[102][103],300 kg (660 lb),GEO,Astranis / Pacific Dataport,Success,No attempt,28.6080585,-80.6039558
+FH 6,"May 1, 2023 00:26[99]",B1053-3 (side),"Kennedy, LC‑39A",GS-1,22 kg (49 lb),GEO,Gravity Space,Success,No attempt,28.6080585,-80.6039558
+221,"May 4, 2023 07:31[105]",F9 B5 B1069‑7,"Cape Canaveral, SLC‑40",Starlink: Group 5-6 (56 satellites),"~17,400 kg (38,400 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+222,"May 10, 2023 20:09[107]",F9 B5 B1075‑3[108],"Vandenberg, SLC‑4E",Starlink: Group 2-9 (51 satellites),"15,900 kg (35,100 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+223,"May 14, 2023 05:03[109]",F9 B5 B1067‑11,"Cape Canaveral, SLC‑40",Starlink: Group 5-9 (56 satellites),"~17,400 kg (38,400 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+224,"May 19, 2023 06:19[110]",F9 B5 B1076‑5,"Cape Canaveral, SLC‑40",Starlink: Group 6-3 (22 satellites),"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+225,"May 20, 2023 13:16[110]",F9 B5 B1063‑11,"Vandenberg, SLC‑4E",Iridium-NEXT[111] (5 satellites) OneWeb (15 Gen1 plus a Gen2 test satellite)[112],"~6,600 kg (14,600 lb)",Polar LEO,Iridium & OneWeb,Success,Success (OCISLY),34.6328344,-120.6107465
+226,"May 21, 2023 21:37[113]",F9 B5 B1080‑1,"Kennedy, LC‑39A",Ax-2 (Crew Dragon C212.2 Freedom),"~13,000 kg (29,000 lb)",LEO (ISS),Axiom Space,Success,Success (LZ‑1),28.6080585,-80.6039558
+227,"May 27, 2023 04:30[119]",F9 B5 B1062‑14,"Cape Canaveral, SLC‑40",ArabSat 7B (Badr-8)[120],"~4,500 kg (9,900 lb)",GTO,Arabsat,Success,Success (JRTI),28.5618571,-80.577366
+228,"May 31, 2023 06:02[122]",F9 B5 B1061‑14,"Vandenberg, SLC‑4E",Starlink: Group 2-10 (52 satellites),"~16,400 kg (36,200 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+229,"June 4, 2023 12:20[122]",F9 B5 B1078‑3,"Cape Canaveral, SLC‑40",Starlink: Group 6-4 (22 satellites),"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+230,"June 5, 2023 15:47[123]",F9 B5 B1077‑5,"Kennedy, LC‑39A",SpaceX CRS-28 (Dragon C208.4),"~3,304 kg (7,284 lb)",LEO (ISS),NASA (CRS),Success,Success (ASOG),28.6080585,-80.6039558
+231,"June 12, 2023 07:10[124]",F9 B5 B1073‑9,"Cape Canaveral, SLC‑40",Starlink: Group 5-11 (52 satellites),"~16,400 kg (36,200 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+232,"June 12, 2023 21:35[125]",F9 B5 B1071‑9,"Vandenberg, SLC‑4E",Transporter-8 (72 payload smallsat rideshare),Unknown[j],SSO,Various,Success,Success (LZ‑4),34.6328344,-120.6107465
+233,"June 18, 2023 22:21[126]",F9 B5 B1067‑12[127],"Cape Canaveral, SLC‑40",SATRIA[128],"~4,580 kg (10,100 lb)",GTO,PT Pasifik Satelit Nusantara,Success,Success (ASOG),28.5618571,-80.577366
+234,"June 22, 2023 07:19[126]",F9 B5 B1075‑4[129],"Vandenberg, SLC‑4E",Starlink: Group 5-7 (47 satellites),"~14,500 kg (32,000 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+235,"June 23, 2023 15:35[131]",F9 B5 B1069‑8,"Cape Canaveral, SLC‑40",Starlink: Group 5-12 (56 satellites),"~17,400 kg (38,400 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+236,"July 1, 2023 15:12[132]",F9 B5 B1080‑2,"Cape Canaveral, SLC‑40",Euclid,"~2,160 kg (4,760 lb)",Sun–Earth L2 injection,ESA,Success,Success (ASOG),28.5618571,-80.577366
+237,"July 7, 2023 19:29[134]",F9 B5 B1063‑12[135],"Vandenberg, SLC‑4E",Starlink: Group 5-13 (48 satellites),"~14,900 kg (32,800 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+238,"July 10, 2023 03:58[134]",F9 B5 B1058‑16,"Cape Canaveral, SLC‑40",Starlink: Group 6-5 (22 satellites),"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+239,"July 16, 2023 03:50[136]",F9 B5 B1060‑16[137],"Cape Canaveral, SLC‑40",Starlink: Group 5-15 (54 satellites),"~16,700 kg (36,800 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+240,"July 20, 2023 04:09[138]",F9 B5 B1071‑10,"Vandenberg, SLC‑4E",Starlink: Group 6-15 (15 satellites),"~12,000 kg (26,000 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+241,"July 24, 2023 00:50[138]",F9 B5 B1076‑6,"Cape Canaveral, SLC‑40",Starlink: Group 6-6 (22 satellites),"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+242,"July 28, 2023 04:01[139]",F9 B5 B1062‑15,"Cape Canaveral, SLC‑40",Starlink: Group 6-7 (22 satellites),"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+FH 7,"July 29, 2023 03:04[140]",Falcon Heavy B5 B1074 (core),"Kennedy, LC‑39A",Jupiter-3 (EchoStar-24)[141],"~9,200 kg (20,300 lb)",GTO,EchoStar,Success,No attempt,28.6080585,-80.6039558
+FH 7,"July 29, 2023 03:04[140]",B1064‑3 (side),"Kennedy, LC‑39A",Jupiter-3 (EchoStar-24)[141],"~9,200 kg (20,300 lb)",GTO,EchoStar,Success,Success (LZ‑1),28.6080585,-80.6039558
+FH 7,"July 29, 2023 03:04[140]",B1065‑3 (side),"Kennedy, LC‑39A",Jupiter-3 (EchoStar-24)[141],"~9,200 kg (20,300 lb)",GTO,EchoStar,Success,Success (LZ‑2),28.6080585,-80.6039558
+243,"August 3, 2023 05:00[144]",F9 B5 B1077‑6,"Cape Canaveral, SLC‑40",Galaxy 37,"~5,063 kg (11,162 lb)",GTO,Intelsat,Success,Success (JRTI),28.5618571,-80.577366
+244,"August 7, 2023 02:41[149]",F9 B5 B1078‑4,"Cape Canaveral, SLC‑40",Starlink: Group 6-8 (22 satellites),"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+245,"August 8, 2023 03:57[150]",F9 B5 B1075‑5,"Vandenberg, SLC‑4E",Starlink: Group 6-20 (15 satellites),"~12,000 kg (26,000 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+246,"August 11, 2023 05:17[151]",F9 B5 B1069‑9,"Cape Canaveral, SLC‑40",Starlink: Group 6-9 (22 satellites),"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+247,"August 17, 2023 03:36[152]",F9 B5 B1067‑13,"Cape Canaveral, SLC‑40",Starlink: Group 6-10 (22 satellites),"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+248,"August 22, 2023 09:37[153]",F9 B5 B1061‑15,"Vandenberg, SLC‑4E",Starlink: Group 7-1 (21 satellites),"~15,300 kg (33,700 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+249,"August 26, 2023 07:27[154]",F9 B5 B1081‑1[155],"Kennedy, LC‑39A",Crew-7[156] (Crew Dragon C210.3 Endurance),"~13,000 kg (29,000 lb)",LEO (ISS),NASA (CTS),Success,Success (LZ‑1),28.6080585,-80.6039558
+250,"August 27, 2023 01:05[158]",F9 B5 B1080‑3,"Cape Canaveral, SLC‑40",Starlink: Group 6-11 (22 satellites),"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+251,"September 1, 2023 02:21[159]",F9 B5 B1077‑7,"Cape Canaveral, SLC‑40",Starlink: Group 6-13 (22 satellites),"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+252,"September 2, 2023 02:21[160] 14:25[161]",F9 B5 B1063‑13,"Vandenberg, SLC‑4E",SDA Tranche 0B (13 satellites),Unknown,LEO,SDA,Success,Success (LZ‑4),34.6328344,-120.6107465
+253,"September 4, 2023 02:47[162]",F9 B5 B1073‑10,"Kennedy, LC‑39A",Starlink: Group 6-12 (22 satellites),"~15,300 kg (33,700 lb)",LEO,SpaceX,Success,Success (JRTI),28.6080585,-80.6039558
+254,"September 9, 2023 03:12[163]",F9 B5 B1076‑7,"Cape Canaveral, SLC‑40",Starlink: Group 6-14 (22 satellites),"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+255,"September 12, 2023 06:57[164]",F9 B5 B1071‑11,"Vandenberg, SLC‑4E",Starlink: Group 7-2 (21 satellites),"~15,300 kg (33,700 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+256,"September 16, 2023 03:38[165]",F9 B5 B1078‑5,"Cape Canaveral, SLC‑40",Starlink: Group 6-16 (22 satellites),"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+257,"September 20, 2023 03:38[168]",F9 B5 B1058‑17,"Cape Canaveral, SLC‑40",Starlink: Group 6-17 (22 satellites),"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+258,"September 24, 2023 03:38[169]",F9 B5 B1060‑17,"Cape Canaveral, SLC‑40",Starlink: Group 6-18 (22 satellites),"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+259,"September 25, 2023 08:48[170]",F9 B5 B1075‑6,"Vandenberg, SLC‑4E",Starlink: Group 7-3 (21 satellites),"~15,300 kg (33,700 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+260,"September 30, 2023 02:00[171]",F9 B5 B1069‑10,"Cape Canaveral, SLC‑40",Starlink: Group 6-19 (22 satellites),"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+261,"October 5, 2023 05:36[172]",F9 B5 B1076‑8,"Cape Canaveral, SLC‑40",Starlink: Group 6-21 (22 satellites),"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+262,"October 9, 2023 07:23[173]",F9 B5 B1063‑14,"Vandenberg, SLC‑4E",Starlink: Group 7-4 (21 satellites),"~15,300 kg (33,700 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+FH 8,"October 13, 2023 14:19[174]",Falcon Heavy B5 B1079 (core)[175],"Kennedy, LC‑39A",Psyche[176],"~2,608 kg (5,750 lb)",Heliocentric,NASA (Discovery),Success,No attempt,28.6080585,-80.6039558
+FH 8,"October 13, 2023 14:19[174]",B1064‑4 (side),"Kennedy, LC‑39A",Psyche[176],"~2,608 kg (5,750 lb)",Heliocentric,NASA (Discovery),Success,Success (LZ‑1),28.6080585,-80.6039558
+FH 8,"October 13, 2023 14:19[174]",B1065‑4 (side),"Kennedy, LC‑39A",Psyche[176],"~2,608 kg (5,750 lb)",Heliocentric,NASA (Discovery),Success,Success (LZ‑2),28.6080585,-80.6039558
+263,"October 13, 2023 23:01[179]",F9 B5 B1067‑14,"Cape Canaveral, SLC‑40",Starlink: Group 6-22 (22 satellites),"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+264,"October 18, 2023 00:39[180]",F9 B5 B1062‑16,"Cape Canaveral, SLC‑40",Starlink: Group 6-23 (22 satellites),"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+265,"October 21, 2023 08:23[181]",F9 B5 B1061‑16,"Vandenberg, SLC‑4E",Starlink: Group 7-5 (21 satellites),"~15,300 kg (33,700 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+266,"October 22, 2023 02:17[182]",F9 B5 B1080‑4,"Cape Canaveral, SLC‑40",Starlink: Group 6-24 (23 satellites),"~16,800 kg (37,000 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+267,"October 29, 2023 09:00[183]",F9 B5 B1075‑7,"Vandenberg, SLC‑4E",Starlink: Group 7-6 (22 satellites),"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+268,"October 30, 2023 23:20[184]",F9 B5 B1077‑8,"Cape Canaveral, SLC‑40",Starlink: Group 6-25 (23 satellites),"~16,800 kg (37,000 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+269,"November 4, 2023 00:37[185]",F9 B5 B1058‑18,"Cape Canaveral, SLC‑40",Starlink: Group 6-26 (23 satellites),"~16,800 kg (37,000 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+270,"November 8, 2023 05:05[186]",F9 B5 B1073‑11,"Cape Canaveral, SLC‑40",Starlink: Group 6-27 (23 satellites),"~16,800 kg (37,000 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+271,"November 10, 2023 01:28[187]",F9 B5 B1081‑2,"Kennedy, LC‑39A",SpaceX CRS-29 (Dragon C211.2),"~9,525 kg (20,999 lb)",LEO (ISS),NASA (CRS),Success,Success (LZ‑1),28.6080585,-80.6039558
+272,"November 11, 2023 18:49[189]",F9 B5 B1071‑12,"Vandenberg, SLC‑4E",Transporter-9 (113 payload smallsat rideshare),Unknown[j],SSO,Various,Success,Success (LZ‑4),34.6328344,-120.6107465
+273,"November 12, 2023 21:08[191]",F9 B5 B1076‑9,"Cape Canaveral, SLC‑40",O3b mPOWER 5 & 6,"~4,100 kg (9,000 lb)",MEO,SES,Success,Success (ASOG),28.5618571,-80.577366
+274,"November 18, 2023 05:05[192]",F9 B5 B1069‑11,"Cape Canaveral, SLC‑40",Starlink: Group 6-28 (23 satellites),"~16,800 kg (37,000 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+275,"November 20, 2023 10:30[193]",F9 B5 B1063‑15,"Vandenberg, SLC‑4E",Starlink: Group 7-7 (22 satellites),"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+276,"November 22, 2023 07:47[194]",F9 B5 B1067‑15,"Cape Canaveral, SLC‑40",Starlink: Group 6-29 (23 satellites),"~16,800 kg (37,000 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+277,"November 28, 2023 04:20[195]",F9 B5 B1062‑17,"Cape Canaveral, SLC‑40",Starlink: Group 6-30 (23 satellites),"~16,800 kg (37,000 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+278,"December 1, 2023 18:19[196]",F9 B5 B1061‑17,"Vandenberg, SLC‑4E",425 Project satellite[197] EIRSAT-1 and others 23 secondary payloads[198],"~800 kg (1,800 lb) (main satellite)",SSO,Republic of Korea Armed Forces,Success,Success (LZ‑4),34.6328344,-120.6107465
+279,"December 3, 2023 04:00[200]",F9 B5 B1078‑6,"Cape Canaveral, SLC‑40",Starlink: Group 6-31 (23 satellites),"~16,800 kg (37,000 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+280,"December 7, 2023 05:07[201]",F9 B5 B1077‑9,"Cape Canaveral, SLC‑40",Starlink: Group 6-33 (23 satellites),"~16,800 kg (37,000 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+281,"December 8, 2023 08:03[202]",F9 B5 B1071‑13,"Vandenberg, SLC‑4E",Starlink: Group 7-8 (22 satellites),"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+282,"December 19, 2023 04:01[206]",F9 B5 B1081‑3,"Cape Canaveral, SLC‑40",Starlink: Group 6-34 (23 satellites),"~16,800 kg (37,000 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+283,"December 23, 2023 05:33[207]",F9 B5 B1058‑19,"Cape Canaveral, SLC‑40",Starlink: Group 6-32 (23 satellites),"~16,800 kg (37,000 lb)",LEO,SpaceX,Success,Partial failure (JRTI),28.5618571,-80.577366
+284,"December 24, 2023 13:11[209]",F9 B5 B1075‑8,"Vandenberg, SLC‑4E",SARah 2 & 3[210],"~3,600 kg (7,900 lb)",SSO,German Intelligence Service,Success,Success (LZ‑4),34.6328344,-120.6107465
+FH 9,"December 29, 2023 01:07[212]",Falcon Heavy B5  B1084 (core)[213],"Kennedy, LC‑39A",USSF-52 (Boeing X-37B OTV-7),"6,350 kg (14,000 lb) + OTV payload",High Elliptical HEO[214],Department of the  Air Force Rapid Capabilities Office[215]/USSF,Success,No attempt,28.6080585,-80.6039558
+FH 9,"December 29, 2023 01:07[212]",B1064‑5 (side),"Kennedy, LC‑39A",USSF-52 (Boeing X-37B OTV-7),"6,350 kg (14,000 lb) + OTV payload",High Elliptical HEO[214],Department of the  Air Force Rapid Capabilities Office[215]/USSF,Success,Success (LZ‑1),28.6080585,-80.6039558
+FH 9,"December 29, 2023 01:07[212]",B1065‑5 (side),"Kennedy, LC‑39A",USSF-52 (Boeing X-37B OTV-7),"6,350 kg (14,000 lb) + OTV payload",High Elliptical HEO[214],Department of the  Air Force Rapid Capabilities Office[215]/USSF,Success,Success (LZ‑2),28.6080585,-80.6039558
+285,"December 29, 2023 04:01[220]",F9 B5 B1069‑12,"Cape Canaveral, SLC‑40",Starlink: Group 6-36 (23 satellites),"~16,800 kg (37,000 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+286,"January 3, 2024 03:44[228]",F9 B5 B1082‑1,"Vandenberg, SLC‑4E",Starlink: Group 7-9 (22 satellites),"~16,800 kg (37,000 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+287,"January 3, 2024 23:04[229]",F9 B5 B1076‑10,"Cape Canaveral, SLC‑40",Ovzon-3,"1,800 kg (4,000 lb)",GTO,Ovzon,Success,Success (LZ‑1),28.5618571,-80.577366
+288,"January 7, 2024 22:35[233]",F9 B5 B1067‑16,"Cape Canaveral, SLC‑40",Starlink: Group 6-35 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+289,"January 14, 2024 08:59[235]",F9 B5 B1061‑18,"Vandenberg, SLC‑4E",Starlink: Group 7-10 (22 satellites),"~16,700 kg (36,800 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+290,"January 15, 2024 01:52[236]",F9 B5 B1073‑12,"Cape Canaveral, SLC‑40",Starlink: Group 6-37 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+291,"January 18, 2024 21:49[239]",F9 B5 B1080‑5,"Kennedy, LC‑39A",Ax-3 (Crew Dragon C212.3 Freedom),"~13,000 kg (29,000 lb)",LEO (ISS),Axiom Space,Success,Success (LZ‑1),28.6080585,-80.6039558
+292,"January 24, 2024 00:35[242]",F9 B5 B1063‑16,"Vandenberg, SLC‑4E",Starlink: Group 7-11 (22 satellites),"~16,700 kg (36,800 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+293,"January 29, 2024 01:10[243]",F9 B5 B1062‑18,"Kennedy, LC‑39A",Starlink: Group 6-38 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.6080585,-80.6039558
+294,"January 29, 2024 05:57[244]",F9 B5 B1075‑9,"Vandenberg, SLC‑4E",Starlink: Group 7-12 (22 satellites),"~16,700 kg (36,800 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+295,"January 30, 2024 17:07[245]",F9 B5 B1077‑10,"Cape Canaveral, SLC‑40",CRS NG-20,"3,726 kg (8,214 lb)",LEO (ISS),Northrop Grumman (CRS),Success,Success (LZ‑1),28.5618571,-80.577366
+296,"February 8, 2024 06:33[248]",F9 B5 B1081‑4,"Cape Canaveral, SLC‑40",PACE,"1,694 kg (3,735 lb)",SSO,NASA (LSP),Success,Success (LZ‑1),28.5618571,-80.577366
+297,"February 10, 2024 00:34[250]",F9 B5 B1071‑14,"Vandenberg, SLC‑4E",Starlink: Group 7-13 (22 satellites),"~16,700 kg (36,800 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+298,"February 14, 2024 22:30[251]",F9 B5 B1078‑7,"Cape Canaveral, SLC‑40",USSF-124 (6 satellites),Unknown,LEO,USSF / SDA,Success,Success (LZ‑2),28.5618571,-80.577366
+299,"February 15, 2024 06:05[253]",F9 B5 B1060‑18,"Kennedy, LC‑39A",IM-1 Nova-C Odysseus lander,"1,931 kg (4,257 lb)",TLI,NASA (CLPS) / Intuitive Machines,Success,Success (LZ‑1),28.6080585,-80.6039558
+300,"February 15, 2024 21:34[258]",F9 B5 B1082‑2,"Vandenberg, SLC‑4E",Starlink: Group 7-14 (22 satellites),"~16,700 kg (36,800 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+301,"February 20, 2024 20:11[260]",F9 B5 B1067‑17,"Cape Canaveral, SLC‑40",Telkomsat HTS 113BT,"4,000 kg (8,800 lb)",GTO,Telkom Indonesia,Success,Success (JRTI),28.5618571,-80.577366
+302,"February 23, 2024 04:11[262]",F9 B5 B1061‑19,"Vandenberg, SLC‑4E",Starlink: Group 7-15 (22 satellites),"~16,700 kg (36,800 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+303,"February 25, 2024 22:06[264]",F9 B5 B1069‑13,"Cape Canaveral, SLC‑40",Starlink: Group 6-39 (24 satellites),"~17,500 kg (38,600 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+304,"February 29, 2024 15:30[266]",F9 B5 B1076‑11,"Cape Canaveral, SLC‑40",Starlink: Group 6-40 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+305,"March 4, 2024 03:53[267]",F9 B5 B1083‑1,"Kennedy, LC‑39A",Crew-8 (Crew Dragon C206.5 Endeavour),"~13,000 kg (29,000 lb)",LEO (ISS),NASA (CTS),Success,Success (LZ‑1),28.6080585,-80.6039558
+306,"March 4, 2024 22:05[269]",F9 B5 B1081‑5,"Vandenberg, SLC‑4E",Transporter-10 (53 payload smallsat rideshare),Unknown[j],SSO,Various,Success,Success (LZ‑4),34.6328344,-120.6107465
+307,"March 4, 2024 23:56[272]",F9 B5 B1073‑13,"Cape Canaveral, SLC‑40",Starlink: Group 6-41 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+308,"March 10, 2024 23:05[274]",F9 B5 B1077‑11,"Cape Canaveral, SLC‑40",Starlink: Group 6-43 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+309,"March 11, 2024 04:09[275]",F9 B5 B1063‑17,"Vandenberg, SLC‑4E",Starlink: Group 7-17 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+310,"March 16, 2024 00:21[276]",F9 B5 B1062‑19,"Kennedy, LC‑39A",Starlink: Group 6-44 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.6080585,-80.6039558
+311,"March 19, 2024 02:28[277]",F9 B5 B1075‑10,"Vandenberg, SLC‑4E",Starlink: Group 7-16 (20 satellites) + 2 Starshield satellites,"~16,300 kg (35,900 lb) (Starlink)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+312,"March 21, 2024 20:55[280]",F9 B5 B1080‑6,"Cape Canaveral, SLC‑40",SpaceX CRS-30 (Dragon C209.4),"2,721 kg (5,999 lb)",LEO (ISS),NASA (CRS),Success,Success (LZ‑1),28.5618571,-80.577366
+313,"March 24, 2024 03:09[282]",F9 B5 B1060‑19,"Kennedy, LC‑39A",Starlink: Group 6-42 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (JRTI),28.6080585,-80.6039558
+314,"March 25, 2024 23:42[283]",F9 B5 B1078‑8,"Cape Canaveral, SLC‑40",Starlink: Group 6-46 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+315,"March 30, 2024 21:52[285]",F9 B5 B1076‑12,"Kennedy, LC‑39A",Eutelsat 36D,"5,000 kg (11,000 lb)",GTO,Eutelsat,Success,Success (JRTI),28.6080585,-80.6039558
+316,"March 31, 2024 01:30[286]",F9 B5 B1067‑18,"Cape Canaveral, SLC‑40",Starlink: Group 6-45 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+317,"April 2, 2024 02:30[287]",F9 B5 B1071‑15,"Vandenberg, SLC‑4E",Starlink: Group 7-18 (22 satellites),"~16,700 kg (36,800 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+318,"April 5, 2024 09:12[288]",F9 B5 B1069‑14,"Cape Canaveral, SLC‑40",Starlink: Group 6-47 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+319,"April 7, 2024 02:25[289]",F9 B5 B1081‑6,"Vandenberg, SLC‑4E",Starlink: Group 8-1 (21 satellites),"~16,800 kg (37,000 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+320,"April 7, 2024 23:16[290]",F9 B5 B1073‑14,"Kennedy, LC‑39A",Bandwagon-1 (11 payload smallsat rideshare),Unknown[j],LEO,Various,Success,Success (LZ‑1),28.6080585,-80.6039558
+321,"April 10, 2024 05:40[292]",F9 B5 B1083‑2,"Cape Canaveral, SLC‑40",Starlink: Group 6-48 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+322,"April 11, 2024 14:25[293]",F9 B5 B1082‑3,"Vandenberg, SLC‑4E",USSF-62 (WSF-M 1),"1,200 kg (2,600 lb)",SSO,USSF,Success,Success (LZ‑4),34.6328344,-120.6107465
+323,"April 13, 2024 01:40[295]",F9 B5 B1062‑20,"Cape Canaveral, SLC‑40",Starlink: Group 6-49 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+324,"April 17, 2024 21:26[296]",F9 B5 B1077‑12,"Kennedy, LC‑39A",Starlink: Group 6-51 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (JRTI),28.6080585,-80.6039558
+325,"April 18, 2024 22:40[297]",F9 B5 B1080‑7,"Cape Canaveral, SLC‑40",Starlink: Group 6-52 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+326,"April 23, 2024 22:17[298]",F9 B5 B1078‑9,"Cape Canaveral, SLC‑40",Starlink: Group 6-53 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+327,"April 28, 2024 00:34[300]",F9 B5 B1060‑20,"Kennedy, LC‑39A",Galileo-L12 (FOC FM25 & FM27),"1,600 kg (3,500 lb)",MEO,ESA,Success,No attempt,28.6080585,-80.6039558
+328,"April 28, 2024 22:08[301]",F9 B5 B1076‑13,"Cape Canaveral, SLC‑40",Starlink: Group 6-54 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+329,"May 2, 2024 18:36[302]",F9 B5 B1061‑20,"Vandenberg, SLC‑4E",WorldView Legion 1 & 2,"1,500 kg (3,300 lb)",SSO,Maxar Technologies,Success,Success (LZ‑4),34.6328344,-120.6107465
+330,"May 3, 2024 02:37[304]",F9 B5 B1067‑19,"Cape Canaveral, SLC‑40",Starlink: Group 6-55 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+331,"May 6, 2024 18:14[305]",F9 B5 B1069‑15,"Cape Canaveral, SLC‑40",Starlink: Group 6-57 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+332,"May 8, 2024 18:42[306]",F9 B5 B1083‑3,"Kennedy, LC‑39A",Starlink: Group 6-56 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.6080585,-80.6039558
+333,"May 10, 2024 04:30[307]",F9 B5 B1082‑4,"Vandenberg, SLC‑4E",Starlink: Group 8-2 (20 satellites),"~16,300 kg (35,900 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+334,"May 13, 2024 00:53[308]",F9 B5 B1073‑15,"Cape Canaveral, SLC‑40",Starlink: Group 6-58 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+335,"May 14, 2024 18:39[309]",F9 B5 B1063‑18,"Vandenberg, SLC‑4E",Starlink: Group 8-7 (20 satellites),"~16,300 kg (35,900 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+336,"May 18, 2024 00:32[310]",F9 B5 B1062‑21,"Cape Canaveral, SLC‑40",Starlink: Group 6-59 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+337,"May 22, 2024 08:00[311]",F9 B5 B1071‑16,"Vandenberg, SLC‑4E",NROL-146 (21 Starshield satellites),Unknown,SSO,Northrop Grumman/NRO,Success,Success (OCISLY),34.6328344,-120.6107465
+338,"May 23, 2024 02:35[314]",F9 B5 B1080‑8,"Cape Canaveral, SLC‑40",Starlink: Group 6-62 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+339,"May 24, 2024 02:45[315]",F9 B5 B1077‑13,"Kennedy, LC‑39A",Starlink: Group 6-63 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (JRTI),28.6080585,-80.6039558
+340,"May 28, 2024 14:24[316]",F9 B5 B1078‑10,"Cape Canaveral, SLC‑40",Starlink: Group 6-60 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+341,"May 28, 2024 22:20[317]",F9 B5 B1081‑7,"Vandenberg, SLC‑4E",EarthCARE,"2,350 kg (5,180 lb)",SSO,ESA,Success,Success (LZ‑4),34.6328344,-120.6107465
+342,"June 1, 2024 02:37[319]",F9 B5 B1076‑14,"Cape Canaveral, SLC‑40",Starlink: Group 6-64 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+343,"June 5, 2024 02:16[321]",F9 B5 B1067‑20,"Cape Canaveral, SLC‑40",Starlink: Group 8-5 (23 satellites),"~16,300 kg (35,900 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+344,"June 8, 2024 01:56[322]",F9 B5 B1069‑16,"Cape Canaveral, SLC‑40",Starlink: Group 10-1 (22 satellites),"~16,700 kg (36,800 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+345,"June 8, 2024 12:58[323]",F9 B5 B1061‑21,"Vandenberg, SLC‑4E",Starlink: Group 8-8 (20 satellites),"~16,300 kg (35,900 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+346,"June 19, 2024 03:40[324]",F9 B5 B1082‑5,"Vandenberg, SLC‑4E",Starlink: Group 9-1 (20 satellites),"~16,300 kg (35,900 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+347,"June 20, 2024 21:35[325]",F9 B5 B1080‑9,"Cape Canaveral, SLC‑40",Astra 1P,"5,000 kg (11,000 lb)",GTO,SES,Success,Success (JRTI),28.5618571,-80.577366
+348,"June 23, 2024 17:15[326]",F9 B5 B1078‑11,"Cape Canaveral, SLC‑40",Starlink: Group 10-2 (22 satellites),"~16,700 kg (36,800 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+349,"June 24, 2024 03:47[328]",F9 B5 B1075‑11,"Vandenberg, SLC‑4E",Starlink: Group 9-2 (20 satellites),"~16,300 kg (35,900 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+FH 10,"June 25, 2024 21:26[329]",Falcon Heavy B5 B1087 (core),"Kennedy, LC‑39A",GOES-U (GOES-19)[330],"5,000 kg (11,000 lb)",GTO,NOAA,Success,No attempt,28.6080585,-80.6039558
+FH 10,"June 25, 2024 21:26[329]",B1072‑1 (side),"Kennedy, LC‑39A",GOES-U (GOES-19)[330],"5,000 kg (11,000 lb)",GTO,NOAA,Success,Success (LZ‑1),28.6080585,-80.6039558
+FH 10,"June 25, 2024 21:26[329]",B1086‑1 (side),"Kennedy, LC‑39A",GOES-U (GOES-19)[330],"5,000 kg (11,000 lb)",GTO,NOAA,Success,Success (LZ‑2),28.6080585,-80.6039558
+350,"June 27, 2024 11:14[332]",F9 B5 B1062‑22,"Cape Canaveral, SLC‑40",Starlink: Group 10-3 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+351,"June 29, 2024 03:14[333]",F9 B5 B1081‑8,"Vandenberg, SLC‑4E",NROL-186 (~21 Starshield satellites),Unknown,SSO,NRO,Success,Success (OCISLY),34.6328344,-120.6107465
+352,"July 3, 2024 08:55[334]",F9 B5 B1073‑16,"Cape Canaveral, SLC‑40",Starlink: Group 8-9 (20 satellites),"~16,300 kg (35,900 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+353,"July 8, 2024 23:30[335]",F9 B5 B1076‑15,"Cape Canaveral, SLC‑40",Türksat 6A,"4,250 kg (9,370 lb)",GTO,Türksat,Success,Success (JRTI),28.5618571,-80.577366
+354,"July 12, 2024 02:35[337]",F9 B5 B1063‑19,"Vandenberg, SLC‑4E",Starlink: Group 9-3 (20 satellites),"~16,300 kg (35,900 lb)",LEO,SpaceX,Failure,Success (OCISLY),34.6328344,-120.6107465
+355,"July 27, 2024 05:45[345]",F9 B5 B1069‑17,"Kennedy, LC‑39A",Starlink: Group 10-9 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (JRTI),28.6080585,-80.6039558
+356,"July 28, 2024 05:09[346]",F9 B5 B1077‑14,"Cape Canaveral, SLC‑40",Starlink: Group 10-4 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+357,"July 28, 2024 09:22[346]",F9 B5 B1071‑17,"Vandenberg, SLC‑4E",Starlink: Group 9-4 (21 satellites),"~16,500 kg (36,400 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+358,"August 2, 2024 05:01[347]",F9 B5 B1078‑12,"Kennedy, LC‑39A",Starlink: Group 10-6 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.6080585,-80.6039558
+359,"August 4, 2024 07:24[348]",F9 B5 B1082‑6,"Vandenberg, SLC‑4E",Starlink: Group 11-1 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+360,"August 4, 2024 15:02[349]",F9 B5 B1080‑10,"Cape Canaveral, SLC‑40",CRS NG-21,"3,857 kg (8,503 lb)",LEO (ISS),Northrop Grumman (CRS),Success,Success (LZ‑1),28.5618571,-80.577366
+361,"August 10, 2024 12:50[350]",F9 B5 B1067‑21,"Cape Canaveral, SLC‑40",Starlink: Group 8-3 (21 satellites),"~16,500 kg (36,400 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+362,"August 12, 2024 02:02[351]",F9 B5 B1061‑22,"Vandenberg, SLC‑4E",ASBM 1 (GX 10A) & ASBM 2 (GX 10B),"~7,230 kg (15,940 lb)[352]",Molniya,Space Norway,Success,Success (OCISLY),34.6328344,-120.6107465
+363,"August 12, 2024 10:37[357]",F9 B5 B1073‑17,"Kennedy, LC‑39A",Starlink: Group 10-7 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.6080585,-80.6039558
+364,"August 15, 2024 13:00[358]",F9 B5 B1076‑16,"Cape Canaveral, SLC‑40",WorldView Legion 3 & 4,"1,500 kg (3,300 lb)",LEO,Maxar Technologies,Success,Success (LZ‑1),28.5618571,-80.577366
+366,"August 20, 2024 13:20[361]",F9 B5 B1085‑1,"Cape Canaveral, SLC‑40",Starlink: Group 10-5 (23 satellites),"~16,700 kg (36,800 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+367,"August 28, 2024 07:48[362]",F9 B5 B1062‑23,"Cape Canaveral, SLC‑40",Starlink: Group 8-6 (21 satellites),"~16,700 kg (36,800 lb)",LEO,SpaceX,Success,Failure (ASOG),28.5618571,-80.577366
+368,"August 31, 2024 07:43[366]",F9 B5 B1069‑18,"Cape Canaveral, SLC‑40",Starlink: Group 8-10 (21 satellites),"~16,700 kg (36,800 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+370,"September 5, 2024 15:33[368]",F9 B5 B1077‑15,"Cape Canaveral, SLC‑40",Starlink: Group 8-11 (21 satellites),"~16,700 kg (36,800 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+371,"September 6, 2024 03:20[369]",F9 B5 B1063‑20,"Vandenberg, SLC‑4E",NROL-113 (21 Starshield satellites),Unknown,LEO,NRO,Success,Success (OCISLY),34.6328344,-120.6107465
+372,"September 10, 2024 09:23[370]",F9 B5 B1083‑4,"Kennedy, LC‑39A",Polaris Dawn (Crew Dragon C207.3 Resilience),"~13,000 kg (29,000 lb)",LEO,Polaris Program,Success,Success (JRTI),28.6080585,-80.6039558
+373,"September 12, 2024 08:52[374]",F9 B5 B1078‑13,"Cape Canaveral, SLC‑40",BlueBird Block 1 (5 satellites)[375],"7,500 kg (16,500 lb)",LEO,AST SpaceMobile,Success,Success (LZ‑1),28.5618571,-80.577366
+375,"September 17, 2024 22:50[377]",F9 B5 B1067‑22,"Cape Canaveral, SLC‑40",Galileo-L13 (FOC FM26 & FM32),"1,600 kg (3,500 lb)",MEO,ESA,Success,Success (JRTI),28.5618571,-80.577366
+378,"September 28, 2024 17:17[381]",F9 B5 B1085‑2,"Cape Canaveral, SLC‑40",Crew-9 (Crew Dragon C212.4 Freedom),"~13,000 kg (29,000 lb)",LEO (ISS),NASA (CTS)[71],Success,Success (LZ‑1),28.5618571,-80.577366
+379,"October 7, 2024 14:52[388]",F9 B5 B1061‑23,"Cape Canaveral, SLC‑40",Hera,"1,108 kg (2,443 lb)",Heliocentric,ESA,Success,No attempt,28.5618571,-80.577366
+FH 11,"October 14, 2024 16:06[390]",Falcon Heavy B5  B1089 (core),"Kennedy, LC‑39A",Europa Clipper,"6,065 kg (13,371 lb)",Heliocentric,NASA,Success,No attempt,28.6080585,-80.6039558
+FH 11,"October 14, 2024 16:06[390]",B1064‑6 (side),"Kennedy, LC‑39A",Europa Clipper,"6,065 kg (13,371 lb)",Heliocentric,NASA,Success,No attempt,28.6080585,-80.6039558
+FH 11,"October 14, 2024 16:06[390]",B1065‑6 (side),"Kennedy, LC‑39A",Europa Clipper,"6,065 kg (13,371 lb)",Heliocentric,NASA,Success,No attempt,28.6080585,-80.6039558
+380,"October 15, 2024 06:10[397]",F9 B5 B1080‑11,"Cape Canaveral, SLC‑40",Starlink: Group 10-10 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+382,"October 18, 2024 23:31[399]",F9 B5 B1076‑17,"Cape Canaveral, SLC‑40",Starlink: Group 8-19 (20 satellites),"~16,300 kg (35,900 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+384,"October 23, 2024 21:47[401]",F9 B5 B1073‑18,"Cape Canaveral, SLC‑40",Starlink: Group 6-61 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+386,"October 26, 2024 21:47[403]",F9 B5 B1069‑19,"Cape Canaveral, SLC‑40",Starlink: Group 10-8 (22 satellites),"~16,700 kg (36,800 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+388,"October 30, 2024 21:10[405]",F9 B5 B1078‑14,"Cape Canaveral, SLC‑40",Starlink: Group 10-13 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+389,"November 5, 2024 02:29[406]",F9 B5 B1083‑5,"Kennedy, LC‑39A",SpaceX CRS-31 (Cargo Dragon C208.5),"2,762 kg (6,089 lb)",LEO (ISS),NASA (CRS),Success,Success (LZ‑1),28.6080585,-80.6039558
+390,"November 7, 2024 20:19[409]",F9 B5 B1085‑3,"Cape Canaveral, SLC‑40",Starlink: Group 6-77 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+392,11 November 2024 17:22[411],F9 B5 B1067‑23,"Kennedy, LC‑39A",Koreasat 6A,"3,900 kg (8,600 lb)",GTO,KT Sat,Success,Success (LZ‑1),28.6080585,-80.6039558
+393,"November 11, 2024 21:28[414]",F9 B5 B1080‑12,"Cape Canaveral, SLC‑40",Starlink: Group 6-69 (24 satellites),"~17,500 kg (38,600 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+395,"November 14, 2024 13:21[416]",F9 B5 B1076‑18,"Cape Canaveral, SLC‑40",Starlink: Group 6-68 (24 satellites),"~17,500 kg (38,600 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+396,"November 17, 2024 22:28[417]",F9 B5 B1077‑16,"Kennedy, LC‑39A",Optus-X/TD7,"~4,000 kg (8,800 lb)[418]",GTO,Optus,Success,Success (ASOG),28.6080585,-80.6039558
+398,"November 18, 2024 18:31[420]",F9 B5 B1073‑19,"Cape Canaveral, SLC‑40",GSAT-20 (GSAT-N2),"4,700 kg (10,400 lb)",GTO,New Space India Limited Dish TV,Success,Success (JRTI),28.5618571,-80.577366
+399,"November 21, 2024 16:07[422]",F9 B5 B1069‑20,"Cape Canaveral, SLC‑40",Starlink: Group 6-66 (24 satellites),"~17,500 kg (38,600 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+401,"November 25, 2024 10:02[424]",F9 B5 B1080‑13,"Cape Canaveral, SLC‑40",Starlink: Group 12-1 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+402,"November 27, 2024 04:41[426]",F9 B5 B1078‑15,"Kennedy, LC‑39A",Starlink: Group 6-76 (24 satellites),"~17,500 kg (38,600 lb)",LEO,SpaceX,Success,Success (ASOG),28.6080585,-80.6039558
+403,"November 30, 2024 05:00[427]",F9 B5 B1083‑6,"Cape Canaveral, SLC‑40",Starlink: Group 6-65 (24 satellites),"~17,500 kg (38,600 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+405,"December 4, 2024 10:13[430]",F9 B5 B1067‑24,"Cape Canaveral, SLC‑40",Starlink: Group 6-70 (24 satellites),"~17,500 kg (38,600 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+407,"December 5, 2024 16:10[432]",F9 B5 B1076‑19,"Kennedy, LC‑39A",SXM-9,"7,000 kg (15,000 lb)",GTO,Sirius XM,Success,Success (JRTI),28.6080585,-80.6039558
+408,"December 8, 2024 05:12[435]",F9 B5 B1086‑2,"Cape Canaveral, SLC‑40",Starlink: Group 12-5 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+410,"December 17, 2024 00:52[437]",F9 B5 B1085‑4,"Cape Canaveral, SLC‑40",GPS III-7 (RRT-1)[438][439],"~4,350 kg (9,590 lb)",MEO,USSF,Success,Success (ASOG),28.5618571,-80.577366
+411,"December 17, 2024 13:19[440]",F9 B5 B1063‑22,"Vandenberg, SLC‑4E",NROL-149 (22 Starshield satellites)[441],Unknown,LEO,NRO,Success,Success (OCISLY),34.6328344,-120.6107465
+412,"December 17, 2024 22:26[442]",F9 B5 B1090‑1,"Kennedy, LC‑39A",O3b mPOWER 7 & 8,"3,400 kg (7,500 lb)",MEO,SES,Success,Success (JRTI),28.6080585,-80.6039558
+414,"December 23, 2024 05:35[446]",F9 B5 B1080‑14,"Kennedy, LC‑39A",Starlink: Group 12-2 (21 satellites),"~16,500 kg (36,400 lb)",LEO,SpaceX,Success,Success (JRTI),28.6080585,-80.6039558
+416,"December 29, 2024 05:00[448]",F9 B5 B1083‑7,"Cape Canaveral, SLC‑40",Astranis: From One to Many (4 satellites),"1,600 kg (3,500 lb)",GTO,Astranis,Success,Success (ASOG),28.5618571,-80.577366
+417,"December 31, 2024 05:39[450]",F9 B5 B1078‑16,"Kennedy, LC‑39A",Starlink: Group 12-6 (21 satellites),"~16,500 kg (36,400 lb)",LEO,SpaceX,Success,Success (JRTI),28.6080585,-80.6039558
+418,"January 4, 2025 01:27[455]",F9 B5 B1073‑20,"Cape Canaveral, SLC‑40",Thuraya 4-NGS,"5,000 kg (11,000 lb)",GTO,Thuraya,Success,Success (ASOG),28.5618571,-80.577366
+419,"January 6, 2025 20:43[458]",F9 B5 B1077‑17,"Cape Canaveral, SLC‑40",Starlink: Group 6‑71 (24 satellites),"~17,500 kg (38,600 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+420,"January 8, 2025 15:27[459]",F9 B5 B1086‑3,"Kennedy, LC‑39A",Starlink: Group 12-11 (21 satellites),"~16,500 kg (36,400 lb)",LEO,SpaceX,Success,Success (ASOG),28.6080585,-80.6039558
+421,"January 10, 2025 03:53[460]",F9 B5 B1071‑22,"Vandenberg, SLC‑4E",NROL-153 (22 Starshield satellites)[461],Unknown,LEO,NRO,Success,Success (OCISLY),34.6328344,-120.6107465
+422,"January 10, 2025 19:11[462]",F9 B5 B1067‑25,"Cape Canaveral, SLC‑40",Starlink: Group 12-12 (21 satellites),"~16,500 kg (36,400 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+423,"January 13, 2025 16:47[463]",F9 B5 B1080‑15,"Cape Canaveral, SLC‑40",Starlink: Group 12-4 (21 satellites),"~16,500 kg (36,400 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+424,"January 14, 2025 19:09[464]",F9 B5 B1088‑2,"Vandenberg, SLC‑4E",Transporter-12 (131 payload smallsat rideshare),"2,000 kg (4,400 lb)",SSO,Various,Success,Success (LZ‑4),34.6328344,-120.6107465
+425,"January 15, 2025 06:11[465]",F9 B5 B1085‑5,"Kennedy, LC‑39A",Blue Ghost Mission 1,"2,517 kg (5,549 lb)",TLI,Firefly Aerospace & NASA (CLPS),Success,Success (JRTI),28.6080585,-80.6039558
+425,"January 15, 2025 06:11[465]",F9 B5 B1085‑5,"Kennedy, LC‑39A",Hakuto-R Mission 2,"2,517 kg (5,549 lb)",TLI,ispace,Success,Success (JRTI),28.6080585,-80.6039558
+426,"January 21, 2025 05:24[471]",F9 B5 B1083‑8,"Kennedy, LC‑39A",Starlink: Group 13-1 (21 satellites) + 2 Starshield satellites,"~15,300 kg (33,700 lb) (Starlink)",LEO,SpaceX,Success,Success (ASOG),28.6080585,-80.6039558
+427,"January 21, 2025 15:45[473]",F9 B5 B1082‑10,"Vandenberg, SLC‑4E",Starlink: Group 11-8 (27 satellites),"~15,500 kg (34,200 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+428,"January 24, 2025 14:07[474]",F9 B5 B1063‑23,"Vandenberg, SLC‑4E",Starlink: Group 11-6 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+429,"January 27, 2025 22:05[475]",F9 B5 B1076‑20,"Cape Canaveral, SLC‑40",Starlink: Group 12-7 (21 satellites),"~16,500 kg (36,400 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+430,"January 30, 2025 01:34[476]",F9 B5 B1073‑21,"Kennedy, LC‑39A",Spainsat NG I,"6,100 kg (13,400 lb)[477]",GTO,Hisdesat,Success,No attempt,28.6080585,-80.6039558
+432,"February 4, 2025 10:15[483]",F9 B5 B1069‑21,"Cape Canaveral, SLC‑40",Starlink: Group 12-3 (21 satellites),"~16,500 kg (36,400 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+433,"February 4, 2025 23:13[484]",F9 B5 B1086‑4,"Kennedy, LC‑39A",WorldView Legion 5 & 6 (2 satellites),"1,500 kg (3,300 lb)",LEO,Maxar Technologies,Success,Success (LZ‑1),28.6080585,-80.6039558
+434,"February 8, 2025 19:18[488]",F9 B5 B1078‑17,"Cape Canaveral, SLC‑40",Starlink: Group 12-9 (21 satellites),"~16,500 kg (36,400 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+436,"February 11, 2025 18:53[490]",F9 B5 B1077‑18,"Cape Canaveral, SLC‑40",Starlink: Group 12-18 (21 satellites),"~16,500 kg (36,400 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+437,"February 15, 2025 06:14",F9 B5  B1067‑26,"Cape Canaveral, SLC‑40",Starlink: Group 12-8 (21 satellites),"~16,500 kg (36,400 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+438,"February 18, 2025 23:21[491]",F9 B5 B1080‑16,"Cape Canaveral, SLC‑40",Starlink: Group 10-12 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+439,"February 21, 2025 15:19",F9 B5 B1076‑21,"Cape Canaveral, SLC‑40",Starlink: Group 12-14 (23 satellites),"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+440,"February 23, 2025 01:38",F9 B5 B1082‑11,"Vandenberg, SLC‑4E",Starlink: Group 15-1 (22 satellites),"~16,800 kg (37,000 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+442,"February 27, 2025 03:34",F9 B5 B1092‑1[497],"Cape Canaveral, SLC‑40",Starlink: Group 12-13 (21 satellites),"~16,500 kg (36,400 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+443,"March 3, 2025 02:24[499]",F9 B5 B1086‑5,"Cape Canaveral, SLC‑40",Starlink: Group 12-20 (21 satellites),"~16,500 kg (36,400 lb)",LEO,SpaceX,Success,Failure (JRTI),28.5618571,-80.577366
+444,"March 12, 2025 03:10[502]",F9 B5 B1088‑3,"Vandenberg, SLC‑4E",SPHEREx PUNCH[503],"758 kg (1,671 lb)",SSO,NASA,Success,Success (LZ‑4),34.6328344,-120.6107465
+445,"March 13, 2025 02:35[504]",F9 B5 B1069‑22,"Cape Canaveral, SLC‑40",Starlink: Group 12-21,"~16,500 kg (36,400 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+446,"March 14, 2025 23:03[505]",F9 B5 B1090‑2,"Kennedy, LC‑39A",Crew-10 (Crew Dragon C210.4 Endurance),"~13,000 kg (29,000 lb)",LEO (ISS),NASA (CCP),Success,Success (LZ‑1),28.6080585,-80.6039558
+447,"March 15, 2025 06:43[506]",F9 B5 B1081‑13,"Vandenberg, SLC‑4E",Transporter-13 (74 payload smallsat rideshare)[271],Unknown[j],SSO,Various,Success,Success (LZ‑4),34.6328344,-120.6107465
+448,"March 15, 2025 11:35[507]",F9 B5 B1078‑18,"Cape Canaveral, SLC‑40",Starlink: Group 12-16,"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+449,"March 18, 2025 19:57[508]",F9 B5 B1077‑19,"Cape Canaveral, SLC‑40",Starlink: Group 12-25,"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+450,"March 21, 2025 06:49[509]",F9 B5 B1088‑4,"Vandenberg, SLC‑4E",NROL-57 (~11 Starshield satellites),Unknown,LEO,NRO,Success,Success (LZ‑4),34.6328344,-120.6107465
+451,"March 24, 2025 17:48[510]",F9 B5 B1092‑2,"Cape Canaveral, SLC‑40",NROL-69,Unknown,LEO,USSF,Success,Success (LZ‑1),28.5618571,-80.577366
+452,"March 26, 2025 22:11[512]",F9 B5 B1063‑24,"Vandenberg, SLC‑4E",Starlink: Group 11-7,"~15,500 kg (34,200 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+453,"March 31, 2025 19:52[513]",F9 B5 B1080‑17,"Cape Canaveral, SLC‑40",Starlink: Group 6-80,"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+454,"April 1, 2025 01:46[514]",F9 B5 B1085‑6,"Kennedy, LC‑39A",Fram2 (Crew Dragon C207.4 Resilience),"~13,000 kg (29,000 lb)",Polar (Retrograde),Chun Wang,Success,Success (ASOG),28.6080585,-80.6039558
+455,"April 4, 2025 01:02[517]",F9 B5 B1088‑5,"Vandenberg, SLC‑4E",Starlink: Group 11-13,"~15,500 kg (34,200 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+456,"April 6, 2025 03:07[518]",F9 B5 B1078‑19,"Cape Canaveral, SLC‑40",Starlink: Group 6-72,"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+457,"April 7, 2025 23:06[519]",F9 B5 B1093‑1,"Vandenberg, SLC‑4E",Starlink: Group 11-11,"~15,500 kg (34,200 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+458,"April 12, 2025 12:25[520]",F9 B5 B1071‑24,"Vandenberg, SLC‑4E",NROL-192 (22 Starshield satellites),Unknown,LEO,NRO,Success,Success (OCISLY),34.6328344,-120.6107465
+459,"April 13, 2025 00:53[521]",F9 B5 B1083‑10,"Kennedy, LC‑39A",Starlink: Group 12-17,"~16,500 kg (36,400 lb)",LEO,SpaceX,Success,Success (ASOG),28.6080585,-80.6039558
+460,"April 14, 2025 04:00[522]",F9 B5 B1067‑27,"Cape Canaveral, SLC‑40",Starlink: Group 6-73,"~15,500 kg (34,200 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+461,"April 20, 2025 12:29[523]",F9 B5 B1082‑12,"Vandenberg, SLC‑4E",NROL-145 (22 Starshield satellites),Unknown,LEO,NRO,Success,Success (OCISLY),34.6328344,-120.6107465
+462,"April 21, 2025 08:15[524]",F9 B5 B1092‑3,"Kennedy, LC‑39A",SpaceX CRS-32 (Cargo Dragon C209.5),"3,021 kg (6,660 lb)",LEO (ISS),NASA (CRS),Success,Success (LZ‑1),28.6080585,-80.6039558
+463,"April 22, 2025 00:48[526]",F9 B5 B1090‑3,"Cape Canaveral, SLC‑40","Bandwagon-3 (425Sat-3,[527] Tomorrow-S7, PHOENIX)",Unknown[j],LEO,Republic of Korea Armed Forces Tomorrow.io Atmos Space Cargo,Success,Success (LZ‑2),28.5618571,-80.577366
+464,"April 25, 2025 01:52[528]",F9 B5 B1069‑23,"Cape Canaveral, SLC‑40",Starlink: Group 6-74,"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+465,"April 28, 2025 02:09[529]",F9 B5 B1077‑20,"Cape Canaveral, SLC‑40",Starlink: Group 12-23,"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+466,"April 28, 2025 20:42[530]",F9 B5 B1063‑25,"Vandenberg, SLC‑4E",Starlink: Group 11-9,"~15,500 kg (34,200 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+467,"April 29, 2025 02:34[531]",F9 B5 B1094‑1,"Kennedy, LC‑39A",Starlink: Group 12-10,"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.6080585,-80.6039558
+468,"May 2, 2025 01:51[532]",F9 B5 B1080‑18,"Cape Canaveral, SLC‑40",Starlink: Group 6-75,"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+469,"May 4, 2025 08:54[533]",F9 B5 B1078‑20,"Kennedy, LC‑39A",Starlink: Group 6-84,"~16,675 kg (36,762 lb)",LEO,SpaceX,Success,Success (ASOG),28.6080585,-80.6039558
+470,"May 7, 2025 01:17[534]",F9 B5 B1085‑7,"Cape Canaveral, SLC‑40",Starlink: Group 6-93,"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+471,"May 10, 2025 00:19[535]",F9 B5 B1081‑14,"Vandenberg, SLC‑4E",Starlink: Group 15-3,"~14,950 kg (32,960 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+472,"May 10, 2025 06:28[536]",F9 B5 B1083‑11,"Cape Canaveral, SLC‑40",Starlink: Group 6-91,"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+473,"May 13, 2025 01:15[538]",F9 B5 B1088‑6,"Vandenberg, SLC‑4E",Starlink: Group 15-4,"~14,950 kg (32,960 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+474,"May 13, 2025 05:02[539]",F9 B5 B1067‑28,"Kennedy, LC‑39A",Starlink: Group 6-83,"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (JRTI),28.6080585,-80.6039558
+475,"May 14, 2025 16:38[540]",F9 B5 B1090‑4,"Cape Canaveral, SLC‑40",Starlink: Group 6-67,"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+476,"May 16, 2025 13:43[541]",F9 B5 B1093‑2,"Vandenberg, SLC‑4E",Starlink: Group 15-5,"~14,950 kg (32,960 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+477,"May 21, 2025 03:19[542]",F9 B5 B1095‑1,"Cape Canaveral, SLC‑40",Starlink: Group 12-15,"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+478,"May 23, 2025 22:32[543]",F9 B5 B1075‑18,"Vandenberg, SLC‑4E",Starlink: Group 11-16,"~15,500 kg (34,200 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+479,"May 24, 2025 17:19[544]",F9 B5 B1069‑24,"Cape Canaveral, SLC‑40",Starlink: Group 12-22,"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+480,"May 27, 2025 16:57[545]",F9 B5 B1082‑13,"Vandenberg, SLC‑4E",Starlink: Group 17-1,"~17,500 kg (38,600 lb)",SSO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+481,"May 28, 2025 13:30[546]",F9 B5 B1080‑19,"Kennedy, LC‑39A",Starlink: Group 10-32,"~15,500 kg (34,200 lb)",LEO,SpaceX,Success,Success (JRTI),28.6080585,-80.6039558
+482,"May 30, 2025 17:37[547]",F9 B5 B1092‑4,"Cape Canaveral, SLC‑40",GPS III-8,"4,350 kg (9,590 lb)",MEO,USSF,Success,Success (ASOG),28.5618571,-80.577366
+483,"May 31, 2025 20:10[548]",F9 B5 B1071‑25,"Vandenberg, SLC‑4E",Starlink: Group 11-18,"~15,500 kg (34,200 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+484,"June 3, 2025 04:43[549]",F9 B5 B1077‑21,"Cape Canaveral, SLC‑40",Starlink: Group 12-19,"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+485,"June 4, 2025 23:40[551]",F9 B5 B1063‑26,"Vandenberg, SLC‑4E",Starlink: Group 11-22,"~15,500 kg (34,200 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+486,"June 7, 2025 04:54[552]",F9 B5 B1085‑8,"Cape Canaveral, SLC‑40",SXM-10,"6,400 kg (14,100 lb)",GTO,Sirius XM,Success,Success (ASOG),28.5618571,-80.577366
+487,"June 8, 2025 14:20[553]",F9 B5 B1088‑7,"Vandenberg, SLC‑4E",Starlink: Group 15-8,"~14,950 kg (32,960 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+488,"June 10, 2025 13:05[554]",F9 B5 B1083‑12,"Cape Canaveral, SLC‑40",Starlink: Group 12-24,"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+489,"June 13, 2025 01:54[555]",F9 B5 B1081‑15,"Vandenberg, SLC‑4E",Starlink: Group 15-6,"~14,950 kg (32,960 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+490,"June 13, 2025 15:29[556]",F9 B5 B1078‑21,"Cape Canaveral, SLC‑40",Starlink: Group 12-26,"~17,100 kg (37,700 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+491,"June 17, 2025 03:36[557]",F9 B5 B1093‑3,"Vandenberg, SLC‑4E",Starlink: Group 15-9,"~14,950 kg (32,960 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+492,"June 18, 2025 05:55[558]",F9 B5 B1090‑5,"Cape Canaveral, SLC‑40",Starlink: Group 10-18,"~16,100 kg (35,500 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+493,"June 23, 2025 05:58[559]",F9 B5 B1069‑25,"Cape Canaveral, SLC‑40",Starlink: Group 10-23,"~15,500 kg (34,200 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+494,"June 23, 2025 21:25[560]",F9 B5 B1071‑26,"Vandenberg, SLC‑4E",Transporter-14 (70 payloads smallsat rideshare)[271],Unknown[j],SSO,Various,Success,Success (OCISLY),34.6328344,-120.6107465
+495,"June 25, 2025 06:31[561]",F9 B5 B1094‑2,"Kennedy, LC‑39A",Axiom Mission 4 (Crew Dragon C213.1 Grace),"~13,000 kg (29,000 lb)",LEO (ISS),Axiom Space,Success,Success (LZ‑1),28.6080585,-80.6039558
+496,"June 25, 2025 19:54[562]",F9 B5 B1080‑20,"Cape Canaveral, SLC‑40",Starlink: Group 10-16,"~15,500 kg (34,200 lb)",LEO,SpaceX,Success,Success (JRTI),28.5618571,-80.577366
+497,"June 28, 2025 04:26[563]",F9 B5 B1092‑5,"Cape Canaveral, SLC‑40",Starlink: Group 10-34,"~15,500 kg (34,200 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
+498,"June 28, 2025 17:13[563]",F9 B5 B1088‑8,"Vandenberg, SLC‑4E",Starlink: Group 15-7,"~14,950 kg (32,960 lb)",LEO,SpaceX,Success,Success (OCISLY),34.6328344,-120.6107465
+499,"July 1, 2025 21:04[564]",F9 B5 B1085‑9,"Kennedy, LC‑39A",MTG-S1 / Sentinel-4A[565],"3,800 kg (8,400 lb)",GTO,EUMETSAT,Success,Success (JRTI),28.6080585,-80.6039558
+500,"July 2, 2025 06:28[566]",F9 B5 B1067‑29,"Cape Canaveral, SLC‑40",Starlink: Group 10-25,"~15,500 kg (34,200 lb)",LEO,SpaceX,Success,Success (ASOG),28.5618571,-80.577366
